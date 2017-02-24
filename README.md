@@ -3,5 +3,6 @@ This is a simple application built using Swift 3, XCode, and MVC, or Model View,
 
 After implementing the implication which displays static facts, it has been updated to display random facts retrieved from the http://numbersapi.com/ API. Upon launch, after tapping the 'Show Another Fun Fact', it will make a request to the server for a random fact.
 
-
-<img src="screenshot.png" width="200">
+<p align="center">
+<img src="screenshot.png" width="500">
+</p>
