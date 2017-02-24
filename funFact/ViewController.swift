@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     typealias JSONStandard = [String : AnyObject]
     
-    // On launch, it will display the static string
+    // On launch, it will display the static string.
     override func viewDidLoad() {
         
         super.viewDidLoad()
