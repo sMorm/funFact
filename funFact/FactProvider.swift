@@ -7,6 +7,9 @@
 //
 
 import GameKit
+import Alamofire
+
+
 
 struct FactProvider {
     let facts = [

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BCBC0C1C7CF94764DD59852519C2856F603BE061",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BCBC0C1C7CF94764DD59852519C2856F603BE061" : 9223372036854775807,
+    "BEF9C4FF892B99BC51BC92CE450071470EC50643" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9D09680-50C6-4A84-A146-CBB9A787E897",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BCBC0C1C7CF94764DD59852519C2856F603BE061" : "funFact\/",
+    "BEF9C4FF892B99BC51BC92CE450071470EC50643" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "funFact",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "funFact.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sMorm\/funFact",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCBC0C1C7CF94764DD59852519C2856F603BE061"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sMorm\/swiftBootcamp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEF9C4FF892B99BC51BC92CE450071470EC50643"
+    }
+  ]
+}
