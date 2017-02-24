@@ -18,13 +18,13 @@ class ViewController: UIViewController {
     var fact: String = "Here are some random facts, keep tappin' 👇🏼"
     
     typealias JSONStandard = [String : AnyObject]
+    
+    // On launch, it will display the static string
     override func viewDidLoad() {
         
         super.viewDidLoad()
         makeRequest(withURL: link)
         funFactLabel.text = fact
-        
-        
         
     }
     
