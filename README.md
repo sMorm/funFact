@@ -4,4 +4,4 @@ This is a simple application built using Swift 3, XCode, and MVC, or Model View,
 After implementing the implication which displays static facts, it has been updated to display random facts retrieved from the http://numbersapi.com/ API. Upon launch, after tapping the 'Show Another Fun Fact', it will make a request to the server for a random fact.
 
 
-![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/screenshot.png)
+![Settings Window](https://raw.github.com/sMorm/funFact/master/screenshot.png)
